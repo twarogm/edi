@@ -22,4 +22,13 @@
 		<phone type="work">6660611</phone>
 		<notes>my best friend</notes>
 	</contact>
+	<contact>
+		<name>Jan</name>
+		<surname>Kowalski</surname>
+		<email type="personal">jkowalski@gmail.com</email>
+		<email type="business">Jan.Kowalski@CompLand.pl</email>
+		<phone type="home">730260135</phone>
+		<phone type="work">510220430</phone>
+		<notes>best worker:D</notes>
+	</contact>
 </contacts>

@@ -1,0 +1,37 @@
+<films>
+    <film>
+        <title year="1972">The Godfather</title>
+        <genre>drama</genre>
+        <personal_rating boxoffice="$245 066 411">8.6</personal_rating>
+        <director>Francis Ford Coppola</director>
+        <actors>Marlon Brando, Al Pacino</actors>
+    </film>
+    <film>
+        <title year="2019">Joker</title>
+        <genre>drama, criminal</genre>
+        <personal_rating boxoffice="$738 575 844">8.7</personal_rating>
+        <director>Todd Phillips</director>
+        <actors>Joaquin Phoenix, Robert De Niro</actors>
+    </film>
+    <film>
+        <title year="2002">The Pianist</title>
+        <genre>Biographic</genre>
+        <personal_rating boxoffice="$120 072 577">7.7</personal_rating>
+        <director>Roman Polanski</director>
+        <actors>Adrien Brody, Emilia Fox</actors>
+    </film>
+    <film>
+        <title year="1994">Pulp Fiction</title>
+        <genre>gangster</genre>
+        <personal_rating boxoffice="$213 928 762">8</personal_rating>
+        <director>Quentin Tarantino</director>
+        <actors>John Travolta, Samuel L. Jackson</actors>
+    </film>
+    <film>
+        <title year="1993">Schindler's List</title>
+        <genre>drama, military</genre>
+        <personal_rating boxoffice="$322 139 355">8.33</personal_rating>
+        <director>Steven Spielberg</director>
+        <actors>Liam Neelson, Ben Kingsley</actors>
+    </film>
+</films>

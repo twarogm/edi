@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<customers>
+    <customer>
+        <first_name>Roley</first_name>
+        <last_name>Poulsom</last_name>
+        <email>rpoulsom0@wunderground.com</email>
+        <gender>Male</gender>
+        <age>73</age>
+        <car>Opel</car>
+        <job>Assistant Media Planner</job>
+        <favourite_film>Thriller</favourite_film>
+    </customer>
+    <customer>
+        <first_name>Robert</first_name>
+        <last_name>Chastan</last_name>
+        <email>rchastan1@thetimes.co.uk</email>
+        <gender>Male</gender>
+        <age>40</age>
+        <car>Renault</car>
+        <job>Structural Engineer</job>
+        <favourite_film>Thriller</favourite_film>
+    </customer>
+    <customer>
+        <first_name>Clarence</first_name>
+        <last_name>Freund</last_name>
+        <email>cfreund2@skype.com</email>
+        <gender>Male</gender>
+        <age>67</age>
+        <car>Renault</car>
+        <job>Administrative Officer</job>
+        <favourite_film>Thriller</favourite_film>
+    </customer>
+    <customer>
+        <first_name>Edyth</first_name>
+        <last_name>Franzman</last_name>
+        <email>efranzman3@utexas.edu</email>
+        <gender>Female</gender>
+        <age>42</age>
+        <car>Renault</car>
+        <job>Teacher</job>
+        <favourite_film>Thriller</favourite_film>
+    </customer>
+    <customer>
+        <first_name>Claudie</first_name>
+        <last_name>Warboy</last_name>
+        <email>cwarboy4@reuters.com</email>
+        <gender>Female</gender>
+        <age>36</age>
+        <car>Renault</car>
+        <job>Health Coach II</job>
+        <favourite_film>Drama</favourite_film>
+    </customer>
+    <customer>
+        <first_name>Libbey</first_name>
+        <last_name>Perch</last_name>
+        <email>lperch5@nasa.gov</email>
+        <gender>Female</gender>
+        <age>24</age>
+        <car>Opel</car>
+        <job>Research Assistant IV</job>
+        <favourite_film>Thriller</favourite_film>
+    </customer>
+    <customer>
+        <first_name>Karin</first_name>
+        <last_name>Croft</last_name>
+        <email>kcroft6@blogs.com</email>
+        <gender>Female</gender>
+        <age>80</age>
+        <car>Renault</car>
+        <job>Project Manager</job>
+        <favourite_film>Thriller</favourite_film>
+    </customer>
+    <customer>
+        <first_name>Arny</first_name>
+        <last_name>Romaint</last_name>
+        <email>aromaint7@icio.us</email>
+        <gender>Male</gender>
+        <age>51</age>
+        <car>Fiat</car>
+        <job>Quality Control Specialist</job>
+        <favourite_film>Action</favourite_film>
+    </customer>
+    <customer>
+        <first_name>Mic</first_name>
+        <last_name>McWhorter</last_name>
+        <email>mmcwhorter8@msu.edu</email>
+        <gender>Male</gender>
+        <age>58</age>
+        <car>Ford</car>
+        <job>Speech Pathologist</job>
+        <favourite_film>Thriller</favourite_film>
+    </customer>
+    <customer>
+        <first_name>Neall</first_name>
+        <last_name>Regenhardt</last_name>
+        <email>nregenhardt9@tamu.edu</email>
+        <gender>Male</gender>
+        <age>21</age>
+        <car>Renault</car>
+        <job>Dental Hygienist</job>
+        <favourite_film>Thriller</favourite_film>
+    </customer>
+    <customer>
+        <first_name>Heywood</first_name>
+        <last_name>Diwell</last_name>
+        <email>hdiwella@uol.com.br</email>
+        <gender>Male</gender>
+        <age>43</age>
+        <car>Fiat</car>
+        <job>Food Chemist</job>
+        <favourite_film>Thriller</favourite_film>
+    </customer>
+    <customer>
+        <first_name>Abram</first_name>
+        <last_name>O'Geaney</last_name>
+        <email>aogeaneyb@sciencedaily.com</email>
+        <gender>Male</gender>
+        <age>56</age>
+        <car>Ford</car>
+        <job>Staff Scientist</job>
+        <favourite_film>Drama</favourite_film>
+    </customer>
+    <customer>
+        <first_name>Meryl</first_name>
+        <last_name>Rudyard</last_name>
+        <email>mrudyardc@usatoday.com</email>
+        <gender>Male</gender>
+        <age>79</age>
+        <car>Renault</car>
+        <job>Structural Analysis Engineer</job>
+        <favourite_film>Thriller</favourite_film>
+    </customer>
+    <customer>
+        <first_name>Audre</first_name>
+        <last_name>Elldred</last_name>
+        <email>aelldredd@scribd.com</email>
+        <gender>Female</gender>
+        <age>24</age>
+        <car>Opel</car>
+        <job>Paralegal</job>
+        <favourite_film>Thriller</favourite_film>
+    </customer>
+    <customer>
+        <first_name>Maxwell</first_name>
+        <last_name>Dumbreck</last_name>
+        <email>mdumbrecke@com.com</email>
+        <gender>Male</gender>
+        <age>42</age>
+        <car>Mazda</car>
+        <job>Biostatistician III</job>
+        <favourite_film>Drama</favourite_film>
+    </customer>
+    <customer>
+        <first_name>Bendicty</first_name>
+        <last_name>Jillings</last_name>
+        <email>bjillingsf@biblegateway.com</email>
+        <gender>Male</gender>
+        <age>66</age>
+        <car>Mazda</car>
+        <job>Electrical Engineer</job>
+        <favourite_film>Drama</favourite_film>
+    </customer>
+    <customer>
+        <first_name>Wallache</first_name>
+        <last_name>Jallin</last_name>
+        <email>wjalling@ebay.com</email>
+        <gender>Male</gender>
+        <age>56</age>
+        <car>Opel</car>
+        <job>Developer IV</job>
+        <favourite_film>Thriller</favourite_film>
+    </customer>
+    <customer>
+        <first_name>Daveen</first_name>
+        <last_name>Folca</last_name>
+        <email>dfolcah@biblegateway.com</email>
+        <gender>Female</gender>
+        <age>75</age>
+        <car>Renault</car>
+        <job>Research Nurse</job>
+        <favourite_film>Drama</favourite_film>
+    </customer>
+    <customer>
+        <first_name>Gun</first_name>
+        <last_name>Gantz</last_name>
+        <email>ggantzi@usda.gov</email>
+        <gender>Male</gender>
+        <age>51</age>
+        <car>Renault</car>
+        <job>Social Worker</job>
+        <favourite_film>Action</favourite_film>
+    </customer>
+    <customer>
+        <first_name>Herb</first_name>
+        <last_name>Petracco</last_name>
+        <email>hpetraccoj@jimdo.com</email>
+        <gender>Male</gender>
+        <age>60</age>
+        <car>BMW</car>
+        <job>Budget/Accounting Analyst IV</job>
+        <favourite_film>Thriller</favourite_film>
+    </customer>
+</customers>
