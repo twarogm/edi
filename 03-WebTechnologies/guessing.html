@@ -8,14 +8,15 @@
 		<h1>Try to guess</h1>
 
 		<script>
-			// read user's number (popup window)
+			var guess = prompt('Guess the number from 1 to 5');
+
+			var num = Math.floor((Math.random() * 5) + 1);
 			
-			// create a random number
-			
-			// compare the numbers
-			
-			// show results (popup window)
-			
+			if (guess==num) {
+				alert('You guessed right!')
+			} else {
+				alert('You guessed wrong, sorry.')
+			};
 		</script>
 	</body>
 </html>
