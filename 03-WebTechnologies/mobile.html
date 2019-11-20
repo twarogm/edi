@@ -7,6 +7,22 @@
 	<body>
 		<h1>Create mobile phone</h1>
 		<script>
+			var MobilePhone = {
+				name: 'Honor 10',
+				RAM: 8,
+				resolution: [1080, 2280],
+				frontcamera: true,
+				dimensions: 	{
+					height: 149.6,
+					width: 71.2,
+					thicknes: 7.7
+				}
+			}
+			var r = confirm('Press OK to see data :)');
+			if (r==true) {
+			alert(JSON.stringify(MobilePhone))
+			}
+			
 		</script>
 	</body>
 </html>

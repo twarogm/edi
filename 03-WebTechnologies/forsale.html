@@ -7,6 +7,46 @@
 	<body>
 		<h1>Houses for sale</h1>
 		<script>
-		</script>
+				class House{
+					constructor(bedrooms,facilities,price,adress,phone){
+						this.bedrooms = bedrooms
+						this.facilities = facilities
+						this.price = price 
+						this.adress = adress
+						this.phone = phone
+					}
+					changePrice(newPrize){
+						this.price = newPrize
+						return newPrize
+					}
+					addFacilities(newFacility){
+						this.facilities.push(newFacility)
+					}
+					descripiton(){
+						 return	JSON.stringify(this)
+					}
+				}
+				// implementing objects:
+				let house1 = new House (3, ["garage", "swimming pool", "garage"], "20 000 PLN", {city: 'manchaster', street: "Downing"}, "500 400 300")
+				let house2 = new House(3, ["garage", "garage"], "120 000 PLN", { city: 'London', street: "Downing" }, "500 800 300")
+				let house3 = new House(3, ["garage", "swimming pool"], "180 000 PLN", { city: 'Bankog', street: "asdasd" }, "30 400 300")
+				let house4 = new House(3, ["garage", "swimming pool", "garage"], "20 000 PLN", { city: 'manchaster', street: "Downing" }, "500 400 300")
+				let house5 = new House(3, ["garage", "swimming pool", "garage"], "300 000 PLN", { city: 'manchaster', street: "Downing" }, "500 400 300")
+				// before changes
+				arrOfHouses = [house1, house2, house3, house4, house5]
+				console.log('Before changes:')
+				arrOfHouses.forEach(house => {
+					console.log(house.descripiton())
+				})
+				// Changes using methods
+				house5.addFacilities("Weird Facility")
+				house3.addFacilities("Weird Statue")
+				house2.changePrice("3 000 000")
+				house1.changePrice("1 000 000")
+				console.log("After changes:")
+				arrOfHouses.forEach(house => {
+					console.log(house.descripiton())
+				})
+			</script>
 	</body>
 </html>

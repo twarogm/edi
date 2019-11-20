@@ -7,18 +7,40 @@
 	<body>
 		<h1>Create methods</h1>
 		<script>
-			var myArray = {
+			let myArray = {
 					arr: [3,4,76,1,5,787,33,76,1,99,45,235,53,23],
 					min: function(){
+						sortedArr = this.arr.sort(function(a,b) {return a-b})
+						console.log('Min value: ' + this.arr[0])
+						return sortedArr
 						// maximum value (sort the arr and take the last value, use a built-in function)
 					},		
-					max: function(){},		// look at the min method comment
-					avg: function(){},		// avarage value
-					lth: function(val){}	// the number of arr values less than 'val'
-			};
-			
-			// display results (min,max,avg,lth) in the console
-			// ...
+					max: function(){
+						console.log(sortedArr)
+						console.log('Max value: ' + sortedArr[sortedArr.length - 1])
+					},		// look at the min method comment
+					avg: function(){
+						let sum = 0 
+						for(i = 0; i < sortedArr.length -1; i++){
+							sum += sortedArr[i]
+						}
+						alert('Average value: ' + Number(sum/sortedArr.length))
+					},		// avarage value
+					lth: function(val){
+						let userVal = prompt("Enter the value")
+						let newArr = []
+						for(i = 0; i < sortedArr.length; i++){
+							if(sortedArr[i] <	userVal){
+								newArr.push(sortedArr[i])
+							}
+						}
+						console.log(newArr)
+					}	// the number of arr values less than 'val'
+			}
+			myArray.min()
+			myArray.max()
+			myArray.avg()
+			myArray.lth()
 		</script>
 	</body>
 </html>
